@@ -1,59 +1,90 @@
-# Rojin Ebrahimi
+<img src="assets/ai-platform-banner.svg" width="100%" alt="Rojin Ebrahimi — AI Platform Engineer. Building reliable systems for ambitious AI." />
 
-### AI Platform Engineer · DevOps & MLOps · Istanbul, Turkey
+<p align="center">
+  <a href="https://www.linkedin.com/in/rojinebrahimi"><img src="https://img.shields.io/badge/LinkedIn-Connect-10231D?style=flat-square&logo=linkedin&logoColor=9CF75A" alt="LinkedIn" /></a>
+  <a href="https://rojin.dev"><img src="https://img.shields.io/badge/Portfolio-rojin.dev-10231D?style=flat-square&logo=googlechrome&logoColor=9CF75A" alt="Portfolio" /></a>
+  <a href="https://t.me/rojinebrahimi"><img src="https://img.shields.io/badge/Telegram-%40rojinebrahimi-10231D?style=flat-square&logo=telegram&logoColor=63E8FF" alt="Telegram" /></a>
+</p>
+
+<p align="center"><strong>AI Platform Engineer at Snapp · DevOps &amp; MLOps · Istanbul, Turkey</strong></p>
 
 > I build the paved roads between ambitious AI ideas and production-ready systems.
 
 ```text
-$ whoami
-Rojin — AI Platform Engineer at Snapp
-
-$ focus --now
-LLM gateways · agentic workflows · MCP integrations · cloud-native platforms
-
-$ principle
-Make the secure, observable, repeatable path the easiest path.
+╭─ system.identity ─────────────────────────────────────────────╮
+│  name      Rojin Ebrahimi                                     │
+│  focus     LLM gateways · agentic workflows · cloud native    │
+│  principle secure + observable + repeatable by default        │
+╰───────────────────────────────────────────────────────────────╯
 ```
 
-I work where AI infrastructure meets developer experience: designing the gateways, orchestration, and platform foundations that help teams use LLMs safely and productively at scale. My background in DevOps means I care as much about reliability, latency, and operability as I do about what a model can do.
+I work where **AI infrastructure** meets **developer experience**: creating gateways, orchestration, and platform foundations that help teams use LLMs safely and productively at scale. My DevOps background means I care as much about reliability, latency, and operability as I do about what a model can do.
 
-Currently, I am helping standardize secure, agentic delivery paths for **1,000+ developers** at Snapp—building internal AI gateway capabilities, integrating MCP servers for secure tool calling, and enabling teams to ship useful AI workflows with confidence.
+| `NOW` | `IMPACT` | `OPEN TO` |
+| :-- | :-- | :-- |
+| AI Platform Engineer @ Snapp | Secure agentic delivery paths for **1,000+ developers** | AI Platform Engineering · MLOps · DevOps |
 
-## `./now_building`
+## `01 / platform_mission`
 
-- **AI platform foundations** — LLM access patterns, AI gateways, and controls that let engineering teams move fast without creating operational debt.
-- **Agentic systems** — practical AI agents and orchestration that connect models to real tools, workflows, and business outcomes.
-- **Reliable infrastructure** — the Kubernetes, GitOps, observability, security, and automation layers underneath the experience.
+<table>
+  <tr>
+    <td width="33%"><strong>▣ AI Gateway Architecture</strong><br/><sub>Designing internal LLM access that is reliable, governed, and secure.</sub></td>
+    <td width="33%"><strong>◇ Agentic Workflows</strong><br/><sub>Integrating custom AI agents and MCP servers for safe, useful tool calling.</sub></td>
+    <td width="33%"><strong>◉ Developer Enablement</strong><br/><sub>Standardizing the paths that help teams ship AI without operational debt.</sub></td>
+  </tr>
+</table>
 
-## `./toolbox`
+## `02 / engineering_stack`
 
-`Kubernetes` · `RKE2` · `Docker` · `Helm` · `Terraform` · `Ansible` · `Argo CD` · `GitLab CI/CD` · `GitHub Actions` · `Python` · `Go` · `Linux` · `Shell`  
-`MLflow` · `Evidently AI` · `LLM Gateways` · `MCP` · `Agentic Tooling` · `AI Orchestration`  
-`Prometheus` · `Grafana` · `Zabbix` · `ELK Stack` · `Sentry` · `Kafka` · `RabbitMQ` · `Redis` · `ClickHouse` · `Vault` · `Consul`
+<details open>
+<summary><strong>AI Platform &amp; MLOps</strong></summary>
+<br/>
 
-## `./selected_work`
+`MLflow` `Evidently AI` `LLM Gateways` `MCP` `Agentic Tooling` `AI Orchestration` `Custom AI Agents`
+</details>
 
-| Project | What it shows |
+<details>
+<summary><strong>Cloud-Native &amp; Delivery</strong></summary>
+<br/>
+
+`Kubernetes` `RKE2` `Docker` `Helm` `Terraform` `Ansible` `Argo CD` `GitLab CI/CD` `GitHub Actions` `Python` `Go` `Linux` `Shell`
+</details>
+
+<details>
+<summary><strong>Reliability, Security &amp; Data</strong></summary>
+<br/>
+
+`Prometheus` `Grafana` `Zabbix` `ELK Stack` `Sentry` `Kafka` `RabbitMQ` `Redis` `ClickHouse` `Vault` `Consul`
+</details>
+
+## `03 / open_source_signals`
+
+| Repository | Signal |
 | --- | --- |
-| [Ansible Playbooks](https://github.com/rojinebrahimi/ansible-playbooks) | Reusable automation for installation and configuration work. |
-| [Python Automation](https://github.com/rojinebrahimi/python-automation) | Small utilities that remove repeatable work from everyday workflows. |
-| [Portfolio](https://github.com/rojinebrahimi/portfolio) | My technical portfolio—built in Go and designed as a living engineering narrative. |
+| [**ansible-playbooks**](https://github.com/rojinebrahimi/ansible-playbooks) | Reusable automation for installation and configuration work. |
+| [**python-automation**](https://github.com/rojinebrahimi/python-automation) | Practical utilities that remove repeatable work from everyday workflows. |
+| [**portfolio**](https://github.com/rojinebrahimi/portfolio) | A Go portfolio that documents my technical direction in public. |
 
-## `./experiment_log`
+## `04 / experiment_queue`
 
-Ideas I’m excited to build in the open:
+The projects I’m most excited to build in the open:
 
-1. **MCP Policy Lab** — a reference platform for testing MCP server permissions, audit trails, and safe tool-calling boundaries.
-2. **LLM Platform Scorecard** — an opinionated dashboard for tracking gateway health, cost, latency, quality, and model usage.
-3. **GitOps for AI Services** — a production-minded template for deploying models, agents, evaluations, and observability together.
-4. **Failure Mode Playground** — a collection of reproducible AI-agent failure scenarios and practical reliability patterns.
+```mermaid
+flowchart LR
+  A[MCP Policy Lab] --> B[LLM Platform Scorecard]
+  B --> C[GitOps for AI Services]
+  C --> D[Agent Failure Mode Playground]
+```
 
-## `./beyond_engineering`
+- **MCP Policy Lab** — a reference platform for permissions, audit trails, and safe tool-calling boundaries.
+- **LLM Platform Scorecard** — an opinionated dashboard for gateway health, cost, latency, quality, and model usage.
+- **GitOps for AI Services** — production-minded templates for models, agents, evaluations, and observability.
+- **Agent Failure Mode Playground** — reproducible failure scenarios with practical reliability patterns.
 
-I’m the founder and host of [Enguru](https://podcasts.apple.com/us/podcast/enguru/id1810482609), a bite-sized English-learning podcast for clearer, more confident communication. Away from a terminal, I figure skate, practise yoga, paint, and play guitar. I’m also improving my German—currently **B2**.
+## `05 / beyond_the_terminal`
 
-## `./connect`
+I’m the founder and host of [**Enguru**](https://podcasts.apple.com/us/podcast/enguru/id1810482609), a bite-sized English-learning podcast for clearer, more confident communication. Away from a terminal, I figure skate, practise yoga, paint, and play guitar. I’m also improving my German—currently **B2**.
 
-[LinkedIn](https://www.linkedin.com/in/rojinebrahimi) · [Portfolio](https://rojin.dev) · [Telegram](https://t.me/rojinebrahimi) · [Email](mailto:therojinebrahimi@gmail.com)
-
-_Open to AI Platform Engineering, MLOps, and DevOps conversations._
+<p align="center">
+  <a href="mailto:therojinebrahimi@gmail.com"><strong>Start a conversation ↗</strong></a>
+</p>
