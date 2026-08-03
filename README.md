@@ -6,7 +6,7 @@
   <a href="https://t.me/rojinebrahimi"><img src="https://img.shields.io/badge/Telegram-%40rojinebrahimi-10231D?style=flat-square&logo=telegram&logoColor=63E8FF" alt="Telegram" /></a>
 </p>
 
-<p align="center"><strong>AI Platform Engineer · DevOps &amp; MLOps · Istanbul, Turkey</strong></p>
+<p align="center"><strong>AI Platform Engineer · DevOps &amp; MLOps</strong></p>
 
 > I build the paved roads between ambitious AI ideas and production-ready systems.
 
