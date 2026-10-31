@@ -1,9 +1,9 @@
 <img src="assets/fde-banner.svg" width="100%" alt="Rojin Ebrahimi — AI Forward Deployed Engineer. Shipping AI where it has to work." />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rojinebrahimi"><img src="https://img.shields.io/badge/LinkedIn-Connect-10231D?style=flat-square&logo=linkedin&logoColor=9CF75A" alt="LinkedIn" /></a>
-  <a href="https://rojin.dev"><img src="https://img.shields.io/badge/Portfolio-rojin.dev-10231D?style=flat-square&logo=googlechrome&logoColor=9CF75A" alt="Portfolio" /></a>
-  <a href="https://t.me/rojinebrahimi"><img src="https://img.shields.io/badge/Telegram-%40rojinebrahimi-10231D?style=flat-square&logo=telegram&logoColor=63E8FF" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/rojinebrahimi"><img src="https://img.shields.io/badge/LinkedIn-Connect-1A1030?style=flat-square&logo=linkedin&logoColor=C4A1FF" alt="LinkedIn" /></a>
+  <a href="https://rojin.dev"><img src="https://img.shields.io/badge/Portfolio-rojin.dev-1A1030?style=flat-square&logo=googlechrome&logoColor=C4A1FF" alt="Portfolio" /></a>
+  <a href="https://t.me/rojinebrahimi"><img src="https://img.shields.io/badge/Telegram-%40rojinebrahimi-1A1030?style=flat-square&logo=telegram&logoColor=F0ABFC" alt="Telegram" /></a>
 </p>
 
 <p align="center"><strong>AI Forward Deployed Engineer · LLM systems that survive contact with production</strong></p>
